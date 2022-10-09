@@ -5,3 +5,5 @@
 Щоб додати файл в stagin area команда git <file_name>
 
 //потрібно додати команду
+
+from feature branch B
