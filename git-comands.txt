@@ -6,4 +6,8 @@
 
 //потрібно додати команду
 
+<<<<<<< HEAD
 From feature branch A
+=======
+from feature branch B
+>>>>>>> feature-b
